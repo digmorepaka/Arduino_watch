@@ -43,4 +43,4 @@ void printDigits(int digits){
   if(digits < 10)
     display.print('0');
     display.print(digits);
-  }
+}
